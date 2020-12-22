@@ -165,7 +165,6 @@ public class MainActivity extends AppCompatActivity {
             return "X";
         }
 
-
         //Returns nothing if no one won
         return "";
     }
